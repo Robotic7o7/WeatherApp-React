@@ -1,6 +1,9 @@
 # React Weather App 
 
+
 ![Project Image](assets/Pic.png)
+=======
+
 
 
 > This is a basic React based Weather App that fetches Data from OpenWeatherMaps API and displays it.
