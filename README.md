@@ -1,6 +1,6 @@
 # React Weather App 
 
-![Project Image](assets/Pic.png)
+![Project Image] (Pic.png)
 
 > This is a ReadMe template to help save you time and effort.
 
