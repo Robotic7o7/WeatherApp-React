@@ -1,6 +1,6 @@
 # React Weather App 
 
-![Project Image] (Pic.png)
+![Project Image] (https://github.com/Robotic7o7/WeatherApp-React/blob/master/Pic.png)
 
 > This is a ReadMe template to help save you time and effort.
 
